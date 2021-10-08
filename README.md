@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zarons
+- 👋 Hi, I’m Geryenko Hawsen
 - 👀 I’m interested in Ramen and designing webpages!
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on anything that will teach me new stuff~
