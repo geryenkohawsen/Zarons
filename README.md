@@ -1,10 +1,17 @@
 - 👋 Hi, I’m Geryenko Hawsen
-- 👀 I’m interested in Ramen and designing webpages!
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on anything that will teach me new stuff~
-- 📫 How to reach me is by email: geryenko@gmail.com
+- 👀 I’m like Ramen and designing stuff!
+- 🌱 I’m currently learning: 
+      1. HTML
+      2. CSS (Bootstrap)
+      3. JavaScript
+      4. React.js
+      5. Java (Spring Boot)
+- 📚 Languages I know:
+      1. Indonesian
+      2. English
+      3. Japanese
 
-宜しくお願いします！！
+宜しくお願いいたします！！
 
 <!---
 Zarons/Zarons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
