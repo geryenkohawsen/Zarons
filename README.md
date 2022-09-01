@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Geryenko Hawsen
-- 👀 I’m like Ramen and designing stuff!
+- 👀 I like Ramen and designing stuff!
 - 🌱 I’m currently learning: 
       1. HTML
       2. CSS (Bootstrap, Tailwind)
