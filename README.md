@@ -1,16 +1,20 @@
 - 👋 Hi, I’m Geryenko Hawsen
 - 👀 I like Ramen and designing stuff!
-- 🌱 I’m currently learning: 
+- 🌱 What I know: 
       1. HTML
       2. CSS (Bootstrap, Tailwind)
       3. JavaScript
       4. React.js
-      5. Java (Spring Boot)
-      6. MySQL
+      5. React Native
+      6. Vue.js
+      7. Java (Spring Boot)
+      8. MySQL
 - 📚 Languages I know:
-      1. Indonesian
-      2. English
-      3. Japanese
+      1. Indonesian (Native)
+      2. English (Bilingual)
+      3. Japanese (Professional)
+      4. Vietnamese (Barely)
+      5. Chinese (even worse...)
 
 宜しくお願いいたします！！
 
