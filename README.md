@@ -2,13 +2,12 @@
 - 👀 I like Ramen and designing stuff!
 - 🌱 What I know: 
       1. HTML
-      2. CSS (Bootstrap, Tailwind)
-      3. JavaScript
-      4. React.js
-      5. React Native
-      6. Vue.js
-      7. Java (Spring Boot)
-      8. MySQL
+      2. CSS (Bootstrap, Tailwind, SCSS)
+      3. JavaScript (Chart.js)
+      4. React.js (React Native, MUI)
+      5. Vue.js (Vue 3, Nuxt 3, Vuetify)
+      6. Java (Spring Boot)
+      7. MySQL
 - 📚 Languages I know:
       1. Indonesian (Native)
       2. English (Bilingual)
